@@ -19,6 +19,8 @@ The categories are not mutually exclusive. For example, a project might have a f
 
 本文中的出资类型并非互斥的，例如一个项目既可以有基金会也可以通过众筹来筹集资金，而一个人既可以靠咨询挣钱也可以获得捐赠。本文的主要目的是提供一个详尽的挣钱方式列表，而你只需要从中选出适合你的。
 
+本中文版是[原版](https://github.com/nayafia/lemonade-stand)的翻译版本。
+
 ---
 
 <!--
