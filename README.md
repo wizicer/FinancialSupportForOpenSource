@@ -46,23 +46,24 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 -->
 
 # 目录
-1. [Donation button](#donation-button)
-2. [Bounties](#bounties)
-3. [Crowdfunding (one-time)](#crowdfunding-one-time)
-4. [Crowdfunding (recurring)](#crowdfunding-recurring)
-5. [Books and merchandise](#books-and-merchandise)
-6. [Advertising & sponsorships](#advertising--sponsorships)
-7. [Get hired by a company to work on project](#get-hired-by-a-company-to-work-on-project)
-8. [Start a project while currently employed](#start-a-project-while-currently-employed)
-9. [Grants](#grants)
-10. [Consulting & services](#consulting--services)
-11. [SaaS](#saas)
-12. [Dual license](#dual-license)
-13. [Open core](#open-core)
-14. [Foundations & consortiums](#foundations--consortiums)
-15. [Venture capital](#venture-capital)
 
-APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)
+1. [捐赠按钮](#捐赠按钮)
+2. [悬赏](#悬赏)
+3. [众筹（一次性）](#众筹（一次性）)
+4. [众筹（持续性）](#众筹（持续性）)
+5. [卖书及周边](#卖书及周边)
+6. [广告](#广告)
+7. [受雇于公司并继续你的项目](#受雇于公司并继续你的项目)
+8. [在职时启动项目](#在职时启动项目)
+9. [补贴](#补贴)
+10. [咨询服务](#咨询服务)
+11. [SaaS](#saas)
+12. [双重协议](#双重协议)
+13. [开放核心](#开放核心)
+14. [基金会](#基金会)
+15. [风险投资](#风险投资)
+
+附录: [贡献](#贡献) // [协议](#协议)
 
 **"个人努力" 用来标记其资金是由个人而非项目主导筹集获得的**
 
@@ -334,7 +335,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## 广告
 
+如果你的项目已经有了一定的受众，你可以帮助广告商向你的受众推销。通常你的项目都会有明确的受众，这是你的优势也是广告商所喜欢的。（比如你有一个Python项目，那么基本上可以假定你的受众一定是技术上熟悉Python的）
 
 <!--
 ####Pros
@@ -342,7 +345,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优势
 
+* 这是成熟明确而且大众也能接受的商业模式
 
 <!--
 ####Cons
@@ -352,7 +357,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
 
+* 需要足够多的受众才能请来广告商
+* 需要通过透明化来让受众相信你（比如让其信任你不会追踪他们）
+* 需要许多精力来寻找和管理广告商
 
 <!--
 ####Case Studies
@@ -361,7 +370,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 案例学习
 
+* [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
+* [Hoodie](http://hood.ie/sponsoring/)
 
 <!--
 ##Get hired by a company to work on project
@@ -369,7 +381,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## 受雇于公司并继续你的项目
 
+公司有时候会雇佣一些个人来做开源项目，你可以寻找一个正在使用你的开源项目的公司。当然具体在公司里可能公司工作和开源项目工作时间会是五五分。除此之外，也可以找一个愿意尝试使用你的新项目的公司。如果你有展示项目经验，这将会非常有用。
 
 <!--
 ####Pros
@@ -379,7 +393,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优点
 
+* 可以利用公司的资源
+* 可以很好的和公司的需求保持一致
+* 稳定的收入
 
 <!--
 ####Cons
@@ -391,7 +409,13 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
 
+* 获得这样的机会需要极好的运气，现目前没有明确可重复的方式获得这样的机会
+* 项目通常需要非常出名并且被使用
+* 对于没有为公司的利润工作，这使得个人很容易被公司优先舍弃
+* 公司可能会过分影响项目的发展
+* TODO
 
 <!--
 ####Case Studies
@@ -402,7 +426,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 案例学习
 
+* [Donald Stufft + Hewlett-Packard and Python packaging (个人努力)](https://twitter.com/dstufft/status/594119386333609984)
+* [Rich Hickey + Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
+* [Aaron Patterson + ManageIQ and Ruby, Rails (个人努力)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
+* [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (个人努力)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
 <!--
 ##Start a project while currently employed
@@ -412,7 +441,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## 在职时启动项目
 
+许多开源项目最初都是员工的编外项目(Side
+Project)，即便其最终可能会成长为一家公司，但以编外项目的形式在公司里进行孵化应该是不错的选择。
+
+如果你想走这条路，请确定你理解了公司在开源项目上的政策。有些公司鼓励员工在工作时间从事开源项目开发，而有些则将你的任何工作视作公司项目。不要假定任何前提，最好在开始前问问你公司里的相关人员。
 
 <!--
 ####Pros
@@ -422,7 +456,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优点
 
+* 可以不用担心收入的情况下尝试新想法
+* 可以和公司的需求很好的保持一致
+* 适合尝试新想法
 
 <!--
 ####Cons
@@ -432,7 +470,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
 
+* 需要用业余时间开发，或者获准在工作时间开发
+* 有被公司过分影响的风险
+* 持续下去可能会出现极度复杂的管理情况
 
 <!--
 ####Case Studies
@@ -443,7 +485,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 案例学习
 
+* [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
+* [Google and Go](https://golang.org/doc/faq#history)
+* [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
+* [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
 
 <!--
 ##Grants
@@ -453,7 +500,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## 补贴
 
+补贴是不需要偿还的极其有效的大笔捐赠，提供补贴的个人或组织通常能够通过给予补贴而从其他方面获得利益，例如接近你，展示其影响力，获得你的工作汇报或税率优惠。
+
+补贴可能来自很多地方，包括公司、软件基金会、慈善基金会以及政府，其技术及法律方面会因其来源的不同有很大的差异。比如一家公司可以通过开咨询费发票给你补贴，而慈善基金会则只能给非盈利组织或个人，通常你得找到一个非盈利组织来帮助你。如果你对补贴不熟悉，了解它的最好方式就是和曾经获得过的人去了解。下面列出了一些成功的案例
 
 <!--
 ####Pros
@@ -463,7 +514,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优点
 
+* 限制条件少
+* 有保证的资金可以确保你能在一段时间里专注在你的项目上
+* 让你的项目有时间喘口气和做些试验
 
 <!--
 ####Cons
@@ -472,7 +527,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
 
+* 软件方面没太多提供补贴的组织
+* 补贴是有限的，始终需要在用完补贴前找到一个持续方法
 
 <!--
 ####Case Studies
@@ -482,7 +540,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-
+#### 案例学习
+* [Dat](https://usopendata.org/)
+* [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
+* [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
 <!--
 ##Consulting & services
@@ -492,7 +553,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## 咨询服务
 
+咨询是一种为开源项目提供资金的灵活方式。你可以更加自由的规划你的时间，比如一周30小时做咨询业务，10小时做开源项目。咨询师通常收费相对较贵，因为工作不稳定且没有公司福利。如果你打算做这类公司，你应该想要创建一家有限责任公司。
 
 <!--
 ####Pros
@@ -500,7 +563,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优点
 
+* 这是成熟明确而且大众也能接受的商业模式
 
 <!--
 ####Cons
@@ -511,7 +576,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
 
+* 咨询工作需要人力，而且不宜规模化（除了极少数）
+* 商业本身的需求会分散开源项目上的注意力
+* 可能会和软件的简易要求有差异
+* 项目需要足够流行，才会让人愿意为相关服务付钱
 
 <!--
 ####Case Studies
@@ -521,7 +591,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 案例学习
 
+* [Neighbourhoodie](https://neighbourhood.ie/)
+* [Baroque Software](http://baroquesoftware.com/)
+* [OpenSSL](http://openssl.com/what.html)
 
 <!--
 ##SaaS
@@ -529,7 +603,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## SaaS
 
+SaaS 即 [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)。在这个模型下，代码本身是开源的，但是你可以提供增值服务使得用户更容易使用。一个典型的增值服务就是托管付费。
 
 <!--
 ####Pros
@@ -539,7 +615,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优点
 
+* 可以围绕这个开源项目建立一个社区，然后通过托管服务赚钱
+* 让开源项目可以专注在用户，当需求增加后再帮助企业采用这个项目
+* 可以根据用户数进行规模化改造
 
 <!--
 ####Cons
@@ -548,7 +628,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
 
+* 对增值服务使用者来说，通常意味着托管服务必须比招聘一个人来维护项目更便宜
+* 增值服务有可能会使得免费用户不太高兴
 
 <!--
 ####Case Studies
@@ -562,7 +645,15 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 案例学习
 
+* [WordPress.com](http://wordpress.com/)
+* [Moodle](https://moodle.org/)
+* [Forge Laravel](https://forge.laravel.com/)
+* [Gitlab](http://gitlab.com)
+* [Sentry](https://getsentry.com/)
+* [Travis CI](https://travis-ci.org/)
+* [Ghost](https://ghost.org/)
 
 <!--
 ##Dual License
@@ -570,7 +661,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## 双重协议
 
+有时候项目可以在完全相同的代码里提供两种不同的授权协议：一个是商业友好的，而另外一个则不（例如GPL）。后者对于个人来说可以免费使用，而公司需要通过购买商业协议来获得合法的商业授权
 
 <!--
 ####Pros
@@ -579,7 +672,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优点
 
+* 这是成熟明确而且大众也能接受的商业模式
+* 如果成功的话，也可以做到规模化
 
 <!--
 ####Cons
@@ -588,7 +684,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
 
+* 会和让软件自由获得的想法有冲突
+* 项目需要足够大以满足客户的需求
 
 <!--
 ####Case Studies
@@ -597,7 +696,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 案例学习
 
+* [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
+* [SQLite](https://www.sqlite.org/copyright.html)
 
 <!--
 ##Open core
@@ -605,7 +707,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## 开放核心
 
+在[开放核心](https://en.wikipedia.org/wiki/Open_core)模型中，项目的一些方面是免费的，但一些功能则是私有的，且只对付费用户开放，通常要求这个项目有企业的需求。
 
 <!--
 ####Pros
@@ -614,7 +718,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优点
 
+* 这是成熟明确而且大众也能接受的商业模式
+* 如果成功的话，也可以做到规模化
 
 <!--
 ####Cons
@@ -624,6 +731,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
+
+* 需要设计付费项目，且该项目应该是独有的
+* 会和让软件自由获得的想法有冲突
+* 独有功能有可能会使得免费用户不太高兴
 
 
 <!--
@@ -635,7 +747,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 案例学习
 
+* [Docker](https://www.docker.com/)
+* [Elastic](https://www.elastic.co/)
+* [Mesosphere](https://mesosphere.com/)
+* [Sidekiq](http://sidekiq.org/)
 
 <!--
 ##Foundations & consortiums
@@ -643,7 +760,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## 基金会
 
+[基金会](https://en.wikipedia.org/wiki/Foundation_(nonprofit))是可以接收和支出的合法法人实体。鉴于其目的并非获得利润，因此可以更好保持中立地管理项目。在美国，基金会可以是501c3（非盈利）或501c6（贸易联盟），许多软件基金会都是贸易联盟，因为非盈利基金会要求展示出慈善的目的，这在软件开发中比较困难。
 
 <!--
 ####Pros
@@ -653,7 +772,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优点
 
+* 中立，基金会可以帮助保护代码和管理社区
+* 可以在许多捐赠者中散布影响力
+* 使得项目合法，公司会更愿意向基金会付款/捐赠而非个人
 
 <!--
 ####Cons
@@ -663,7 +786,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
 
+* 只适合大项目
+* 由于IRS的限制，项目能做什么会有所限制
+* 需要大量社区的努力和各种技能，而且之后仍旧需要努力获得筹款
 
 <!--
 ####Case Studies
@@ -673,7 +800,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 案例学习
 
+* [Ruby Together](http://rubytogether.org/)
+* [Python Software Foundation](https://www.python.org/psf/)
+* [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
 
 <!--
 ##Venture capital
@@ -683,7 +814,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+## 风险投资
 
+风险投资是高增长业务的一种筹资形式，不像银行贷款或者任意一种债务财务形式，风险投资者通过提供资金来占有你业务的一定股份。这种交易不像贷款，如果你的业务挂了你并不需要偿还出资方。当然，如果你成功了，你也需要成倍的返还给你的投资者。
+
+风险投资是高风险高回报的：风投者相比银行对风险更加宽容，当然他们也期待你成功后的巨额回报。如果你打算获得风险投资，你应该以股份有限公司的形式建立法人实体。如果你对风险投资过程不熟悉，开始的最好方式就是询问成功获得风险投资的人。
 
 <!--
 ####Pros
@@ -692,7 +827,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 优点
 
+* 制度上的支持对成长中的业务有益
+* 大量的风投资金蓄势待发
 
 <!--
 ####Cons
@@ -701,7 +839,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 缺点
 
+* 风险投资在投资之初便做好了获得成倍回报后退出的打算，历史证明，由于开源项目的结构特点，风险投资的成功很难。
+* 风险投资者可能会因为优先级改变其动机
+
+（译者注：在中国有一类风险投资者故意诱导涉世不深的创业者签订不平等协议，尤其是在创业者热情最浓而又最困难的时候，使其在业务失败时也能全身而退，相应的，创业者会输得很惨，值得小心对待）
 
 <!--
 ####Case Studies
@@ -714,7 +857,14 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
+#### 案例学习
 
+* [Npm](http://blog.npmjs.org/post/76320673650/funding)
+* [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
+* [NodeSource](https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/)
+* [Meteor](http://info.meteor.com/blog/announcing-our-20m-series-b-funding)
+
+--
 
 <!--
 ### Contributing to this guide
@@ -724,7 +874,13 @@ If something is factually incorrect (especially with a case study example), I we
 
 -->
 
+## 贡献
 
+我写这个手册主要是为了将我头脑中的知识都整理出来，不过我并没有打算做主要的贡献或改变。优点和缺点大多是从我的观点出发的主观想法。
+
+如果有什么错误（尤其是案例学习），非常欢迎大家的修改。同时，如果发现有什么分类漏掉了，我也非常欢迎大家的修改。
+
+关于中文版的贡献，如果有信息上的错误或遗失，请到原文中提出，如果有中文翻译上的错误，请在这里直接提出。如果你觉得有信息上的错误或遗失，但又各种原因无法用英文表述，担心中文表述不会被采纳，这种情况请还是在原文中提出，我或者其他同时会英文和中文的小伙伴会帮助解决问题的。
 
 <!--
 ### License and attribution
@@ -732,4 +888,12 @@ This guide is available under the Creative Commons CC0 1.0 License, meaning you 
 
 -->
 
+## 协议
 
+原文协议为Creative Commons CC0 1.0
+License，即你可以自由的使用，商业或非商业，不过如果你用了，很开心能从你那里听到点什么，在这里找到我[@nayafia](http://twitter.com/nayafia)，当然这并不是要求必须做的。
+
+中文版协议为Creative Commons Attribution 4.0 International
+License，和原文协议差不多了，基本上可以说怎么用都可以，唯一不要修改原作者名字或以原作者名字声明演绎作品就可以了。
+
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)
