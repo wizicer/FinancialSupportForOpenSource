@@ -13,15 +13,16 @@ The categories are not mutually exclusive. For example, a project might have a f
 -->
 
 # 开源项目挣钱实用手册
+
 *"我在参与开源项目，但是我该如何挣钱呢？"*
 
-我列出了我从各种渠道所知道的开源项目带来收入的人们的故事，每种出资类型都有一系列的真实案例，粗略的按照出资量从小到大排列。（我已尽可能的将链接指向具体故事而非主页面）
+我列出了我从各种渠道所知道的开源项目带来收入的人们的故事，每种出资类型都有一系列的真实案例，粗略的按照出资量从小到大排列。（我已尽可能的将链接指向具体故事而非主页面）。
 
 本文中的出资类型并非互斥的，例如一个项目既可以由基金会也可以通过众筹来筹集资金，而一个人既可以靠咨询挣钱也可以获得捐赠。本文的主要目的是提供一个详尽的挣钱方式列表，而你只需要从中选出适合你的。
 
 本中文版是[原版](https://github.com/nayafia/lemonade-stand)的翻译版本。
 
-原项目名称Lemonade Stand是指销售柠檬汁的小摊，而在美国，这种小摊通常是由小朋友运作的。
+原项目名称 Lemonade Stand 是指销售柠檬汁的小摊，而在美国，这种小摊通常是由小朋友运作的。
 
 ---
 
@@ -69,7 +70,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 附录: [贡献](#贡献) // [协议](#协议)
 
-**"个人努力" 用来标记其资金是由个人而非项目主导筹集获得的**
+**“个人努力” 用来标记其资金是由个人而非项目主导筹集获得的。**
 
 
 <!--
@@ -80,7 +81,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ## 捐赠按钮
 
-在你的网站页面里放上捐赠按钮。Stripe和PayPal都可以很方便的提供这项服务。
+在你的网站页面里放上捐赠按钮。Stripe 和 PayPal 都可以很方便的提供这项服务。
 
 <!--
 #### Pros
@@ -105,7 +106,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 #### 缺点
 
 * 除非你努力筹款，通常都不会有太多钱
-* 需要一个法人实体来接受捐赠（[SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com)可在这方面提供帮助），因此较难管理个人的国际性捐赠
+* 需要一个法人实体来接受捐赠（[SFC](http://sfconservancy.org)、 [OpenCollective](http://opencollective.com)可在这方面提供帮助），因此较难管理个人的国际性捐赠
 * 在多人项目中很难明确如何分配这笔捐赠
 
 <!--
@@ -130,7 +131,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ## 悬赏
 
-项目或公司可能时不时的张贴开源项目的悬赏工作（例如“修漏洞赚$100”），下面列出了一些网站，他们收集和发布了这类悬赏工作。
+项目或公司可能时不时的张贴开源项目的悬赏工作（例如“修漏洞赚 $100”），下面列出了一些网站，他们收集和发布了这类悬赏工作。
 
 <!--
 ####Pros
@@ -192,7 +193,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 #### 优点
 
 * 限制条件少
-* 对个人来说也可以很容易合法的进行，例如通过[Kickstarter](https://kickstarter.com/)
+* 对个人来说也可以很容易合法的进行，例如通过 [Kickstarter](https://kickstarter.com/)
 
 <!--
 ####Cons
@@ -207,7 +208,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 * 一大堆的市场工作需要做
 * 通常都需要为捐赠者提供回报甚至是特权
-* 通常钱也不是那么多（一次大约$50K）
+* 通常钱也不是那么多（一次大约 $50K）
 * 公司并不常愿意向众筹捐款
 
 <!--
@@ -246,7 +247,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 #### 优点
 
 * 限制条件少
-* 对个人来说也可以很容易合法的进行，例如通过[Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/), [OpenCollective](https://opencollective.com)
+* 对个人来说也可以很容易合法的进行，例如通过 [Patreon](https://patreon.com)、 [Salt](https://salt.bountysource.com/)、 [Gratipay](https://gratipay.com/)、 [OpenCollective](https://opencollective.com)
 
 <!--
 ####Cons
@@ -261,7 +262,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 * 很难获得承诺的持续性捐赠（这通常需要你或项目已经有一定的名声）
 * 很难解释持续性的捐赠能获得什么样明确的回报或特权
-* 通常钱也不是那么多（一个月$1-4K）
+* 通常钱也不是那么多（一个月 $1-4K）
 
 <!--
 ####Case Studies
@@ -278,7 +279,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
 * [jsbin](https://gratipay.com/jsbin/)
-* [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
+* [Tom Christie + Django REST framework (个人努力)](https://fund.django-rest-framework.org/topics/funding/)
 * [Ruby Together](https://rubytogether.org)
 
 <!--
@@ -289,7 +290,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ## 卖书及周边
 
-如果你是某个领域的专家，你可以写书卖书，可以找个出版社（像O'Reilly）或自己出版（译者注：在中国不行）。除了卖书之外，有些项目也卖短袖外套等。
+如果你是某个领域的专家，你可以写书卖书，可以找个出版社（像 O'Reilly）或自己出版（译者注：在中国不行）。除了卖书之外，有些项目也卖短袖外套等。
 
 <!--
 ####Pros
@@ -341,7 +342,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ## 广告
 
-如果你的项目已经有了一定的受众，你可以帮助广告商向你的受众推销。通常你的项目都会有明确的受众，这是你的优势也是广告商所喜欢的。（比如你有一个Python项目，那么基本上可以假定你的受众一定是技术上熟悉Python的）
+如果你的项目已经有了一定的受众，你可以帮助广告商向你的受众推销。通常你的项目都会有明确的受众，这是你的优势也是广告商所喜欢的。（比如你有一个 Python 项目，那么基本上可以假定你的受众一定是技术上熟悉 Python 的）
 
 <!--
 ####Pros
@@ -447,8 +448,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ## 在职时启动项目
 
-许多开源项目最初都是员工的编外项目(Side
-Project)，即便其最终可能会成长为一家公司，但以编外项目的形式在公司里进行孵化应该是不错的选择。
+许多开源项目最初都是员工的编外项目（Side Project），即便其最终可能会成长为一家公司，但以编外项目的形式在公司里进行孵化应该是不错的选择。
 
 如果你想走这条路，请确定你理解了公司在开源项目上的政策。有些公司鼓励员工在工作时间从事开源项目开发，而有些则将你的任何工作视作公司项目。不要假定任何前提，最好在开始前问问你公司里的相关人员。
 
@@ -508,7 +508,7 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 补贴是不需要偿还的极其有效的大笔捐赠，提供补贴的组织通常能够通过给予补贴而从其他方面获得利益，例如接近你，展示其影响力，获得你的工作汇报或税率优惠。
 
-补贴可能来自很多地方，包括公司、软件基金会、慈善基金会以及政府，其技术及法律方面会因其来源的不同有很大的差异。比如一家公司可以通过开咨询费发票给你补贴，而慈善基金会则只能给非盈利组织或个人，通常你得找到一个非盈利组织来帮助你。如果你对补贴不熟悉，了解它的最好方式就是和曾经获得过的人去了解。下面列出了一些成功的案例
+补贴可能来自很多地方，包括公司、软件基金会、慈善基金会以及政府，其技术及法律方面会因其来源的不同有很大的差异。比如一家公司可以通过开咨询费发票给你补贴，而慈善基金会则只能给非盈利组织或个人，通常你得找到一个非盈利组织来帮助你。如果你对补贴不熟悉，了解它的最好方式就是和曾经获得过的人去了解。下面列出了一些成功的案例。
 
 <!--
 ####Pros
@@ -559,7 +559,7 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 ## 咨询服务
 
-咨询是一种为开源项目提供资金的灵活方式。你可以更加自由的规划你的时间，比如一周30小时做咨询业务，10小时做开源项目。咨询师通常收费相对较贵，因为工作不稳定且没有公司福利。如果你打算做这类公司，你应该想要创建一家有限责任公司。
+咨询是一种为开源项目提供资金的灵活方式。你可以更加自由的规划你的时间，比如一周 30 小时做咨询业务，10 小时做开源项目。咨询师通常收费相对较贵，因为工作不稳定且没有公司福利。如果你打算做这类公司，你应该想要创建一家有限责任公司。
 
 <!--
 ####Pros
@@ -609,7 +609,7 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 ## SaaS
 
-SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/Software_as_a_service)。在这个模型下，代码本身是开源的，但是你可以提供增值服务使得用户更容易使用。一个典型的增值服务就是托管付费。
+SaaS 即 [软件即服务（Software as a Service）](https://en.wikipedia.org/wiki/Software_as_a_service)。在这个模型下，代码本身是开源的，但是你可以提供增值服务使得用户更容易使用。一个典型的增值服务就是托管付费。
 
 <!--
 ####Pros
@@ -667,7 +667,7 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 ## 双重协议
 
-有时候项目可以在完全相同的代码里提供两种不同的授权协议：一个是商业友好的，而另外一个则不（例如GPL）。后者对于个人来说可以免费使用，而公司需要通过购买商业协议来获得合法的商业授权。
+有时候项目可以在完全相同的代码里提供两种不同的授权协议：一个是商业友好的，而另外一个则不（例如 GPL）。后者对于个人来说可以免费使用，而公司需要通过购买商业协议来获得合法的商业授权。
 
 <!--
 ####Pros
@@ -766,7 +766,7 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 ## 基金会
 
-[基金会](https://en.wikipedia.org/wiki/Foundation_&#40;nonprofit&#41;)是可以接收和支出的合法法人实体。鉴于其目的并非获得利润，因此可以更好保持中立地管理项目。在美国，基金会可以是501c3（非盈利）或501c6（贸易联盟），许多软件基金会都是贸易联盟，因为非盈利基金会要求展示出慈善的目的，这在软件开发中比较困难。
+[基金会](https://en.wikipedia.org/wiki/Foundation_&#40;nonprofit&#41;)是可以接收和支出的合法法人实体。鉴于其目的并非获得利润，因此可以更好保持中立地管理项目。在美国，基金会可以是 501c3（非盈利）或 501c6（贸易联盟），许多软件基金会都是贸易联盟，因为非盈利基金会要求展示出慈善的目的，这在软件开发中比较困难。
 
 <!--
 ####Pros
@@ -793,7 +793,7 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 #### 缺点
 
 * 只适合大项目
-* 由于IRS的限制，项目能做什么会有所限制
+* 由于 IRS 的限制，项目能做什么会有所限制
 * 需要大量社区的努力和各种技能，而且之后仍旧需要努力获得筹款
 
 <!--
@@ -845,7 +845,7 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 #### 缺点
 
-* 风险投资在投资之初便做好了获得成倍回报后退出的打算，历史证明，由于开源项目的结构特点，风险投资的成功很难。
+* 风险投资在投资之初便做好了获得成倍回报后退出的打算，历史证明，由于开源项目的结构特点，风险投资的成功很难
 * 风险投资者可能会因为优先级改变其动机
 
 （译者注：在中国有一类风险投资者故意诱导涉世不深的创业者签订不平等协议，尤其是在创业者热情最浓而又最困难的时候，使其在业务失败时也能全身而退，相应的，创业者会输得很惨，值得小心对待）
@@ -896,10 +896,8 @@ This guide is available under the Creative Commons CC0 1.0 License, meaning you 
 
 ## 协议
 
-原文协议为Creative Commons CC0 1.0
-License，即你可以自由的使用，商业或非商业，不过如果你用了，很开心能从你那里听到点什么，在这里找到我[@nayafia](http://twitter.com/nayafia)，当然这并不是要求必须做的。
+原文协议为Creative Commons CC0 1.0 License，即你可以自由的使用，商业或非商业，不过如果你用了，很开心能从你那里听到点什么，在这里找到我[@nayafia](http://twitter.com/nayafia)，当然这并不是要求必须做的。
 
-中文版协议为Creative Commons Attribution 4.0 International
-License，和原文协议差不多了，基本上可以说怎么用都可以，唯一不要修改原作者名字或以原作者名字声明演绎作品就可以了。
+中文版协议为Creative Commons Attribution 4.0 International License，和原文协议差不多了，基本上可以说怎么用都可以，唯一不要修改原作者名字或以原作者名字声明演绎作品就可以了。
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
